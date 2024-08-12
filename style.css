@@ -1256,6 +1256,7 @@ footer {
   .clientCards {
     width: 85vw;
     height: auto;
+    animation: none;
   }
 
   .clientInfo {
@@ -1770,6 +1771,8 @@ footer {
   .clientCards {
     width: 80vw;
     height: auto;
+    animation: none;
+
   }
 
   .clientInfo {
